@@ -1,16 +1,15 @@
-# Custom host records are listed here.
+[Adblock Plus]
+! Custom blocklist
 
-0.0.0.0 casino.ua
-0.0.0.0 schulist.link
-# 0.0.0.0 ashdi.vip
-0.0.0.0 franecki.net
-0.0.0.0 getter.cfd
-0.0.0.0 getter.fun
-0.0.0.0 cdn77.srv224.com
-0.0.0.0 getter.fun
-0.0.0.0 doubleclick.net
-0.0.0.0 godsave.lgbt
-0.0.0.0 bashirian.biz
-0.0.0.0 getter.cfd
-0.0.0.0 reichelcormier.bid
-0.0.0.0 nogravity4.click
+||casino.ua^
+||schulist.link^
+! ||ashdi.vip^
+||franecki.net^
+||getter.cfd^
+||getter.fun^
+||cdn77.srv224.com^
+||doubleclick.net^
+||godsave.lgbt^
+||bashirian.biz^
+||reichelcormier.bid^
+||nogravity4.click^
