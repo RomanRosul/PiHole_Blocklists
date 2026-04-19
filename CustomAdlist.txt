@@ -7,3 +7,10 @@
 0.0.0.0 getter.cfd
 0.0.0.0 getter.fun
 0.0.0.0 cdn77.srv224.com
+0.0.0.0 getter.fun
+0.0.0.0 doubleclick.net
+0.0.0.0 godsave.lgbt
+0.0.0.0 bashirian.biz
+0.0.0.0 getter.cfd
+0.0.0.0 reichelcormier.bid
+0.0.0.0 nogravity4.click
