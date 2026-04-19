@@ -2,3 +2,8 @@
 
 0.0.0.0 casino.ua
 0.0.0.0 schulist.link
+# 0.0.0.0 ashdi.vip
+0.0.0.0 franecki.net
+0.0.0.0 getter.cfd
+0.0.0.0 getter.fun
+0.0.0.0 cdn77.srv224.com
