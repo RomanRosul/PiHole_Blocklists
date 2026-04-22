@@ -1,0 +1,24 @@
+[Adblock Plus]
+! Instagram, Facebook and Shorts/Reels blocklist
+! Note: DNS blocking for Shorts/Reels is limited as they share domains with main content.
+
+! --- Instagram (Full Block) ---
+||instagram.com^
+||m.instagram.com^
+||cdninstagram.com^
+||ig.me^
+
+! --- Facebook (Block Facebook, Keep Messenger) ---
+||facebook.com^
+||fb.com^
+||facebook.net^
+! ||messenger.com^ (Kept for Messenger)
+! ||fb.me^ (Kept for Messenger shortlinks)
+! ||fbcdn.net^ (Kept for Messenger media/images)
+
+! --- Instagram Reels Specific (Experimental) ---
+||reels.instagram.com^
+||reels.cdninstagram.com^
+
+! --- YouTube Shorts Specific (Experimental) ---
+||shorts.youtube.com^
