@@ -1,0 +1,9 @@
+[Adblock Plus]
+! Video Sites blocklist
+
+||uaserial.tv^
+||simpsonsua.tv^
+||uakino.best^
+||uakino.me^
+||uaserial.pro^
+||eneyida.tv^
