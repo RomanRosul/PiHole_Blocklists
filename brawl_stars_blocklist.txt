@@ -1,0 +1,15 @@
+[Adblock Plus]
+! Brawl Stars Blocklist
+! Note: Blocking Supercell domains may affect other games like Clash of Clans/Royale.
+
+||brawlstars.com^
+||game.brawlstarsgame.com^
+||brawlstars.inbox.supercell.com^
+||brawlstars-api.inbox.supercell.com^
+||supercell.com^
+||supercell.net^
+||id.supercell.com^
+||accounts.supercell.com^
+||cdn.id.supercell.com^
+||cdn.supercell.com^
+||collector.snowplow.supercell.com^
